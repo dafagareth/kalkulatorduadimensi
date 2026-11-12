@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.dd.KalkulatorDuaDimensi.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "com.dd.KalkulatorDuaDimensi.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dd.KalkulatorDuaDimensi.app-debug-23:/layout_activity_calculator.xml.flat",
+        "source": "com.dd.KalkulatorDuaDimensi.app-main-25:/layout/activity_calculator.xml"
+    },
+    {
+        "merged": "/home/dd/.gradle/daemon/8.11.1/com.dd.KalkulatorDuaDimensi.app-debug-23:/layout_activity_calculator.xml.flat",
+        "source": "/home/dd/.gradle/daemon/8.11.1/com.dd.KalkulatorDuaDimensi.app-main-25:/layout/activity_calculator.xml"
+    },
+    {
+        "merged": "/home/dd/.gradle/daemon/8.11.1/com.dd.KalkulatorDuaDimensi.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "/home/dd/.gradle/daemon/8.11.1/com.dd.KalkulatorDuaDimensi.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dd.KalkulatorDuaDimensi.app-debug-23:/layout_item_shape.xml.flat",
+        "source": "com.dd.KalkulatorDuaDimensi.app-main-25:/layout/item_shape.xml"
+    },
+    {
+        "merged": "/home/dd/.gradle/daemon/8.11.1/com.dd.KalkulatorDuaDimensi.app-debug-23:/layout_item_shape.xml.flat",
+        "source": "/home/dd/.gradle/daemon/8.11.1/com.dd.KalkulatorDuaDimensi.app-main-25:/layout/item_shape.xml"
+    }
+]

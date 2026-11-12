@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-12T02:18:07" hostname="x03a2k5c" time="8.349">
+  <properties/>
+  <testcase name="allMenuChoicesOpenTheRightCalculatorAndShowBothResults" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="6.803"/>
+  <testcase name="menuUsesOneColumnOnANarrowScreen" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.09"/>
+  <testcase name="longCalculatorRemainsScrollableOnAShortScreen" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.151"/>
+  <testcase name="keyboardRecreationEditingAndResetPreserveTheExpectedState" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.303"/>
+  <testcase name="missingAndUnknownChoicesCloseTheCalculatorSafely" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.037"/>
+  <testcase name="calculationsHandleVerySmallSidesAndRejectNonpositiveSizes" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.022"/>
+  <testcase name="invalidNumbersAreRejectedAndZeroResultsAreNotDisplayed" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.25"/>
+  <testcase name="menuUsesOneColumnOnAWideScreen" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.103"/>
+  <testcase name="invalidGeometryShowsAnErrorAndEditingAllowsRecovery" classname="com.dd.KalkulatorDuaDimensi.CalculatorFlowTest" time="0.588"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

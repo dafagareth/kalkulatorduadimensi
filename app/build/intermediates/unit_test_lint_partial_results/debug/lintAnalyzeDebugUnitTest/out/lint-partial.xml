@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="partial_results">
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="id[inputDimension1(R),inputDimension2(R),inputDimension3(R),inputDimension4(R),inputRow1(R),inputRow2(R),inputRow3(R),inputRow4(R),shapeMenu(R),btnCalculate(R),btnBack(R),btnReset(R),tvResult(R),tvPerimeter(R)],string[area_empty(R)];;;;"/>
+    </map>
+
+</incidents>

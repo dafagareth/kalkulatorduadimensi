@@ -1,0 +1,64 @@
+http://schemas.android.com/apk/res-auto;;${\:app*debug*MAIN*sourceProvider*0*resDir*0}/values/colors.xml,${\:app*debug*MAIN*sourceProvider*0*resDir*0}/layout/activity_calculator.xml,${\:app*debug*MAIN*sourceProvider*0*resDir*0}/layout/activity_main.xml,${\:app*debug*MAIN*sourceProvider*0*resDir*0}/layout/item_shape.xml,${\:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml,+color:white,0,V400010010,2900010035,;"#FFFFFFFF";accent,0,V40002003a,280002005e,;"#1565C0";+id:btnBack,1,F;inputDimension3,1,F;inputDimension2,1,F;tvResult,1,F;inputDimension1,1,F;shapeMenu,2,F;tvTitle,1,F;tvTitle,2,F;btnCalculate,1,F;inputDimension4,1,F;tvPerimeter,1,F;inputLabel4,1,F;inputLabel2,1,F;inputLabel3,1,F;inputLabel1,1,F;inputRow4,1,F;tvDescription,1,F;inputRow1,1,F;btnReset,1,F;inputRow3,1,F;tvResultTitle,1,F;inputRow2,1,F;+layout:activity_main,2,F;item_shape,3,F;activity_calculator,1,F;+string:circle_perimeter,4,V4004c177a,64004c17da,;"Keliling\:
+K = 2 × π × r
+K = 2 × π × %2$s
+K ≈ %1$s cm";pentagon_area,4,V4004d17df,76004d1851,;"Luas\:
+L = √(25 \+ 10√5) × s² ÷ 4
+L = √(25 \+ 10√5) × %2$s² ÷ 4
+L ≈ %1$s cm²";trapezoid,4,V400110400,2f0011042b,;"Trapesium";triangle_description,4,V4001b0634,71001b06a1,;"Masukkan ketiga sisi segitiga. Luas dihitung dengan rumus Heron.";parallelogram,4,V40013045f,3700130492,;"Jajar genjang";rectangle_description,4,V4001a05d6,5d001a062f,;"Masukkan panjang dan lebar persegi panjang.";hexagon_area,4,V4004f18b8,69004f191d,;"Luas\:
+L = 3 × √3 × s² ÷ 2
+L = 3 × √3 × %2$s² ÷ 2
+L ≈ %1$s cm²";hexagon,4,V40017052f,3700170562,;"Segi enam beraturan";lower_label,4,V400300cfc,4900300d41,;"Diagonal utama\, bagian bawah (cm)";invalid_trapezoid,4,V4003a0f71,8b003a0ff8,;"Sisi sejajar harus berbeda panjang. Selisihnya dan kedua kaki harus dapat membentuk segitiga.";back_to_shapes,4,V4000400ee,3d00040127,;"Semua bangun datar";trapezoid_perimeter,4,V400441380,9a00441416,;"Keliling\:
+K = sisi atas \+ sisi bawah \+ kaki kiri \+ kaki kanan
+K = %2$s \+ %3$s \+ %4$s \+ %5$s
+K = %1$s cm";invalid_input,4,V4000c031a,55000c036b,;"Masukkan angka yang valid dan lebih dari 0.";top_label,4,V4002b0bc7,3c002b0bff,;"Sisi sejajar atas (cm)";radius_label,4,V400370ecb,3700370efe,;"Jari-jari (cm)";rhombus_area,4,V400491619,7c00491691,;"Luas\:
+L = diagonal pertama × diagonal kedua ÷ 2
+L = %2$s × %3$s ÷ 2
+L = %1$s cm²";trapezoid_description,4,V4001c06a6,93001c0735,;"Masukkan dua sisi sejajar yang berbeda panjang dan kedua kaki. Tinggi dihitung dari keempat sisi.";first_diagonal_label,4,V400350e3e,4600350e80,;"Diagonal pertama (cm)";rhombus_description,4,V4001f085d,95001f08ee,;"Masukkan panjang kedua diagonal. Panjang sisi diperoleh dari setengah panjang masing-masing diagonal.";right_label,4,V4002e0c7b,37002e0cae,;"Kaki kanan (cm)";side_label,4,V400240a4e,3800240a82,;"Panjang sisi (cm)";calculate,4,V4000601ad,3e000601e7,;"Hitung luas dan keliling";triangle_area,4,V4004111fe,7a00411274,;"Luas\:
+s = (a \+ b \+ c) ÷ 2
+L = √(s × (s − a) × (s − b) × (s − c))
+L ≈ %1$s cm²";circle_area,4,V4004b1723,56004b1775,;"Luas\:
+L = π × r²
+L = π × %2$s²
+L ≈ %1$s cm²";pentagon,4,V4001604f6,380016052a,;"Segi lima beraturan";rhombus,4,V400140497,31001404c4,;"Belah ketupat";sloping_side_label,4,V400330dc0,4800330e04,;"Panjang sisi samping (cm)";area_empty,4,V400090253,3d0009028c,;"Luas\:
+Belum dihitung.";upper_label,4,V4002f0cb3,48002f0cf7,;"Diagonal utama\, bagian atas (cm)";result_title,4,V400080218,3a0008024e,;"Hasil perhitungan";second_diagonal_label,4,V400360e85,4500360ec6,;"Diagonal kedua (cm)";side_c_label,4,V4002a0b92,34002a0bc2,;"Sisi c (cm)";square,4,V4000e0371,2a000e0397,;"Persegi";square_description,4,V400190568,6d001905d1,;"Masukkan panjang satu sisi. Keempat sisi persegi sama panjang.";input_help,4,V40005012c,80000501a8,;"Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik\, tanpa pemisah ribuan.";kite_perimeter,4,V4004614a0,900046152c,;"Keliling\:
+K = 2 × (sisi atas \+ sisi bawah)
+Panjang sisi dihitung dari bagian diagonal.
+K ≈ %1$s cm";reset,4,V4000701ec,2b00070213,;"Kosongkan";bottom_label,4,V4002c0c04,40002c0c40,;"Sisi sejajar bawah (cm)";rectangle,4,V4000f039c,35000f03cd,;"Persegi panjang";rectangle_perimeter,4,V400401185,78004011f9,;"Keliling\:
+K = 2 × (panjang \+ lebar)
+K = 2 × (%2$s \+ %3$s)
+K = %1$s cm";circle,4,V4001504c9,2c001504f1,;"Lingkaran";circle_description,4,V4002008f3,6c0020095b,;"Masukkan jari-jari\, yaitu jarak dari pusat ke tepi lingkaran.";across_label,4,V400310d46,4000310d82,;"Diagonal melintang (cm)";kite_description,4,V4001d073a,a4001d07da,;"Ukur diagonal utama dari titik potong ke ujung atas dan ke ujung bawah. Masukkan juga panjang penuh diagonal melintang.";base_label,4,V400320d87,3800320dbb,;"Panjang alas (cm)";invalid_triangle,4,V400390f04,6c00390f6c,;"Jumlah panjang dua sisi harus lebih besar daripada sisi ketiga.";height_label,4,V400340e09,3400340e39,;"Tinggi (cm)";width_label,4,V400270af5,3200270b23,;"Lebar (cm)";triangle,4,V4001003d2,2d001003fb,;"Segitiga";parallelogram_area,4,V400471531,6600471593,;"Luas\:
+L = alas × tinggi
+L = %2$s × %3$s
+L = %1$s cm²";parallelogram_description,4,V4001e07df,7d001e0858,;"Masukkan alas\, sisi samping\, dan tinggi yang tegak lurus terhadap alas.";length_label,4,V400260abf,3500260af0,;"Panjang (cm)";hexagon_description,4,V4002209d7,7500220a48,;"Masukkan satu sisi segi enam beraturan. Semua sisi dan sudutnya sama.";side_b_label,4,V400290b5d,3400290b8d,;"Sisi b (cm)";rectangle_area,4,V4003f1120,64003f1180,;"Luas\:
+L = panjang × lebar
+L = %2$s × %3$s
+L = %1$s cm²";hexagon_perimeter,4,V400501922,600050197e,;"Keliling\:
+K = 6 × sisi
+K = 6 × %2$s
+K = %1$s cm";square_perimeter,4,V4003e10c0,5f003e111b,;"Keliling\:
+K = 4 × sisi
+K = 4 × %2$s
+K = %1$s cm";menu_description,4,V40002004d,63000200ac,;"Pilih bangun datar untuk menghitung luas dan keliling.";parallelogram_perimeter,4,V400481598,8000481614,;"Keliling\:
+K = 2 × (alas \+ sisi samping)
+K = 2 × (%2$s \+ %3$s)
+K = %1$s cm";perimeter_empty,4,V4000a0291,46000a02d3,;"Keliling\:
+Belum dihitung.";invalid_parallelogram,4,V4003b0ffd,63003b105c,;"Tinggi tidak boleh melebihi panjang sisi samping.";square_area,4,V4003d1062,5d003d10bb,;"Luas\:
+L = sisi × sisi
+L = %2$s × %2$s
+L = %1$s cm²";pentagon_description,4,V400210960,76002109d2,;"Masukkan satu sisi segi lima beraturan. Semua sisi dan sudutnya sama.";trapezoid_area,4,V4004312e6,990043137b,;"Luas\:
+L = (sisi atas \+ sisi bawah) × tinggi ÷ 2
+Tinggi ≈ %4$s cm
+L ≈ (%2$s \+ %3$s) × %4$s ÷ 2
+L ≈ %1$s cm²";app_name,4,V400010010,3c00010048,;"Kalkulator Bangun Datar";required_input,4,V4000b02d8,41000b0315,;"Kolom ini wajib diisi.";rhombus_perimeter,4,V4004a1696,8c004a171e,;"Keliling\:
+K = 4 × √((d₁ ÷ 2)² \+ (d₂ ÷ 2)²)
+K = 4 × √((%2$s ÷ 2)² \+ (%3$s ÷ 2)²)
+K ≈ %1$s cm";triangle_perimeter,4,V400421279,6c004212e1,;"Keliling\:
+K = a \+ b \+ c
+K = %2$s \+ %3$s \+ %4$s
+K = %1$s cm";dimension_label,4,V400250a87,3700250aba,;"Ukuran (cm)";pentagon_perimeter,4,V4004e1856,61004e18b3,;"Keliling\:
+K = 5 × sisi
+K = 5 × %2$s
+K = %1$s cm";kite_area,4,V40045141b,840045149b,;"Luas\:
+L = diagonal utama × diagonal melintang ÷ 2
+L = (%2$s \+ %3$s) × %4$s ÷ 2
+L = %1$s cm²";side_a_label,4,V400280b28,3400280b58,;"Sisi a (cm)";kite,4,V400120430,2e0012045a,;"Layang-layang";left_label,4,V4002d0c45,35002d0c76,;"Kaki kiri (cm)";calculator_title,4,V4000300b1,3c000300e9,;"Kalkulator %1$s";

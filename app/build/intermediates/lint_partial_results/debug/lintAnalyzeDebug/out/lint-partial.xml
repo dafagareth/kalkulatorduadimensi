@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.dd.KalkulatorDuaDimensi.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string="color[accent(U),white(U)],id[btnBack(U),tvTitle(U),tvDescription(U),inputRow1(U),inputLabel1(U),inputDimension1(U),inputRow2(U),inputLabel2(U),inputDimension2(U),inputRow3(U),inputLabel3(U),inputDimension3(U),inputRow4(U),inputLabel4(U),inputDimension4(U),btnCalculate(U),btnReset(U),tvResultTitle(U),tvResult(U),tvPerimeter(U),shapeMenu(U)],layout[activity_calculator(U),activity_main(U),item_shape(U)],string[app_name(U),back_to_shapes(U),dimension_label(U),input_help(U),calculate(U),reset(U),result_title(U),area_empty(U),perimeter_empty(U),menu_description(U),calculator_title(U),required_input(U),invalid_input(U),square(U),rectangle(U),triangle(U),trapezoid(U),kite(U),parallelogram(U),rhombus(U),circle(U),pentagon(U),hexagon(U),square_description(U),rectangle_description(U),triangle_description(U),trapezoid_description(U),kite_description(U),parallelogram_description(U),rhombus_description(U),circle_description(U),pentagon_description(U),hexagon_description(U),side_label(U),length_label(U),width_label(U),side_a_label(U),side_b_label(U),side_c_label(U),top_label(U),bottom_label(U),left_label(U),right_label(U),upper_label(U),lower_label(U),across_label(U),base_label(U),sloping_side_label(U),height_label(U),first_diagonal_label(U),second_diagonal_label(U),radius_label(U),invalid_triangle(U),invalid_trapezoid(U),invalid_parallelogram(U),square_area(U),square_perimeter(U),rectangle_area(U),rectangle_perimeter(U),triangle_area(U),triangle_perimeter(U),trapezoid_area(U),trapezoid_perimeter(U),kite_area(U),kite_perimeter(U),parallelogram_area(U),parallelogram_perimeter(U),rhombus_area(U),rhombus_perimeter(U),circle_area(U),circle_perimeter(U),pentagon_area(U),pentagon_perimeter(U),hexagon_area(U),hexagon_perimeter(U)],style[Theme_AppCompat_DayNight_NoActionBar(R),TextAppearance_AppCompat_Headline(R),TextAppearance_AppCompat_Body1(R),TextAppearance_AppCompat_Body2(R),TextAppearance_AppCompat_Title(R)];17^0^1b^1^1a^66^67^7^1c^68^a^d^10^1d^1e^1f^20^69^21^22,18^1a^66^23^67,19^0^1;;;"/>
+    </map>
+
+</incidents>

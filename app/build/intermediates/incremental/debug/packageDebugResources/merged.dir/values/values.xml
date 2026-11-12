@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#1565C0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="across_label">Diagonal melintang (cm)</string>
+    <string name="app_name">Kalkulator Bangun Datar</string>
+    <string name="area_empty">Luas:\nBelum dihitung.</string>
+    <string name="back_to_shapes">Semua bangun datar</string>
+    <string name="base_label">Panjang alas (cm)</string>
+    <string name="bottom_label">Sisi sejajar bawah (cm)</string>
+    <string name="calculate">Hitung luas dan keliling</string>
+    <string name="calculator_title">Kalkulator %1$s</string>
+    <string name="circle">Lingkaran</string>
+    <string name="circle_area">Luas:\nL = π × r²\nL = π × %2$s²\nL ≈ %1$s cm²</string>
+    <string name="circle_description">Masukkan jari-jari, yaitu jarak dari pusat ke tepi lingkaran.</string>
+    <string name="circle_perimeter">Keliling:\nK = 2 × π × r\nK = 2 × π × %2$s\nK ≈ %1$s cm</string>
+    <string name="dimension_label">Ukuran (cm)</string>
+    <string name="first_diagonal_label">Diagonal pertama (cm)</string>
+    <string name="height_label">Tinggi (cm)</string>
+    <string name="hexagon">Segi enam beraturan</string>
+    <string name="hexagon_area">Luas:\nL = 3 × √3 × s² ÷ 2\nL = 3 × √3 × %2$s² ÷ 2\nL ≈ %1$s cm²</string>
+    <string name="hexagon_description">Masukkan satu sisi segi enam beraturan. Semua sisi dan sudutnya sama.</string>
+    <string name="hexagon_perimeter">Keliling:\nK = 6 × sisi\nK = 6 × %2$s\nK = %1$s cm</string>
+    <string name="input_help">Masukkan angka lebih dari 0. Desimal boleh memakai koma atau titik, tanpa pemisah ribuan.</string>
+    <string name="invalid_input">Masukkan angka yang valid dan lebih dari 0.</string>
+    <string name="invalid_parallelogram">Tinggi tidak boleh melebihi panjang sisi samping.</string>
+    <string name="invalid_trapezoid">Sisi sejajar harus berbeda panjang. Selisihnya dan kedua kaki harus dapat membentuk segitiga.</string>
+    <string name="invalid_triangle">Jumlah panjang dua sisi harus lebih besar daripada sisi ketiga.</string>
+    <string name="kite">Layang-layang</string>
+    <string name="kite_area">Luas:\nL = diagonal utama × diagonal melintang ÷ 2\nL = (%2$s + %3$s) × %4$s ÷ 2\nL = %1$s cm²</string>
+    <string name="kite_description">Ukur diagonal utama dari titik potong ke ujung atas dan ke ujung bawah. Masukkan juga panjang penuh diagonal melintang.</string>
+    <string name="kite_perimeter">Keliling:\nK = 2 × (sisi atas + sisi bawah)\nPanjang sisi dihitung dari bagian diagonal.\nK ≈ %1$s cm</string>
+    <string name="left_label">Kaki kiri (cm)</string>
+    <string name="length_label">Panjang (cm)</string>
+    <string name="lower_label">Diagonal utama, bagian bawah (cm)</string>
+    <string name="menu_description">Pilih bangun datar untuk menghitung luas dan keliling.</string>
+    <string name="parallelogram">Jajar genjang</string>
+    <string name="parallelogram_area">Luas:\nL = alas × tinggi\nL = %2$s × %3$s\nL = %1$s cm²</string>
+    <string name="parallelogram_description">Masukkan alas, sisi samping, dan tinggi yang tegak lurus terhadap alas.</string>
+    <string name="parallelogram_perimeter">Keliling:\nK = 2 × (alas + sisi samping)\nK = 2 × (%2$s + %3$s)\nK = %1$s cm</string>
+    <string name="pentagon">Segi lima beraturan</string>
+    <string name="pentagon_area">Luas:\nL = √(25 + 10√5) × s² ÷ 4\nL = √(25 + 10√5) × %2$s² ÷ 4\nL ≈ %1$s cm²</string>
+    <string name="pentagon_description">Masukkan satu sisi segi lima beraturan. Semua sisi dan sudutnya sama.</string>
+    <string name="pentagon_perimeter">Keliling:\nK = 5 × sisi\nK = 5 × %2$s\nK = %1$s cm</string>
+    <string name="perimeter_empty">Keliling:\nBelum dihitung.</string>
+    <string name="radius_label">Jari-jari (cm)</string>
+    <string name="rectangle">Persegi panjang</string>
+    <string name="rectangle_area">Luas:\nL = panjang × lebar\nL = %2$s × %3$s\nL = %1$s cm²</string>
+    <string name="rectangle_description">Masukkan panjang dan lebar persegi panjang.</string>
+    <string name="rectangle_perimeter">Keliling:\nK = 2 × (panjang + lebar)\nK = 2 × (%2$s + %3$s)\nK = %1$s cm</string>
+    <string name="required_input">Kolom ini wajib diisi.</string>
+    <string name="reset">Kosongkan</string>
+    <string name="result_title">Hasil perhitungan</string>
+    <string name="rhombus">Belah ketupat</string>
+    <string name="rhombus_area">Luas:\nL = diagonal pertama × diagonal kedua ÷ 2\nL = %2$s × %3$s ÷ 2\nL = %1$s cm²</string>
+    <string name="rhombus_description">Masukkan panjang kedua diagonal. Panjang sisi diperoleh dari setengah panjang masing-masing diagonal.</string>
+    <string name="rhombus_perimeter">Keliling:\nK = 4 × √((d₁ ÷ 2)² + (d₂ ÷ 2)²)\nK = 4 × √((%2$s ÷ 2)² + (%3$s ÷ 2)²)\nK ≈ %1$s cm</string>
+    <string name="right_label">Kaki kanan (cm)</string>
+    <string name="second_diagonal_label">Diagonal kedua (cm)</string>
+    <string name="side_a_label">Sisi a (cm)</string>
+    <string name="side_b_label">Sisi b (cm)</string>
+    <string name="side_c_label">Sisi c (cm)</string>
+    <string name="side_label">Panjang sisi (cm)</string>
+    <string name="sloping_side_label">Panjang sisi samping (cm)</string>
+    <string name="square">Persegi</string>
+    <string name="square_area">Luas:\nL = sisi × sisi\nL = %2$s × %2$s\nL = %1$s cm²</string>
+    <string name="square_description">Masukkan panjang satu sisi. Keempat sisi persegi sama panjang.</string>
+    <string name="square_perimeter">Keliling:\nK = 4 × sisi\nK = 4 × %2$s\nK = %1$s cm</string>
+    <string name="top_label">Sisi sejajar atas (cm)</string>
+    <string name="trapezoid">Trapesium</string>
+    <string name="trapezoid_area">Luas:\nL = (sisi atas + sisi bawah) × tinggi ÷ 2\nTinggi ≈ %4$s cm\nL ≈ (%2$s + %3$s) × %4$s ÷ 2\nL ≈ %1$s cm²</string>
+    <string name="trapezoid_description">Masukkan dua sisi sejajar yang berbeda panjang dan kedua kaki. Tinggi dihitung dari keempat sisi.</string>
+    <string name="trapezoid_perimeter">Keliling:\nK = sisi atas + sisi bawah + kaki kiri + kaki kanan\nK = %2$s + %3$s + %4$s + %5$s\nK = %1$s cm</string>
+    <string name="triangle">Segitiga</string>
+    <string name="triangle_area">Luas:\ns = (a + b + c) ÷ 2\nL = √(s × (s − a) × (s − b) × (s − c))\nL ≈ %1$s cm²</string>
+    <string name="triangle_description">Masukkan ketiga sisi segitiga. Luas dihitung dengan rumus Heron.</string>
+    <string name="triangle_perimeter">Keliling:\nK = a + b + c\nK = %2$s + %3$s + %4$s\nK = %1$s cm</string>
+    <string name="upper_label">Diagonal utama, bagian atas (cm)</string>
+    <string name="width_label">Lebar (cm)</string>
+</resources>
